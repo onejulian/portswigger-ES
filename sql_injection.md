@@ -1,5 +1,3 @@
-# Prácticas de Web Hacking
-
 ## SQL Injection
 
 Este repositorio contiene ejemplos prácticos de vulnerabilidades de inyección SQL y cómo explotarlas. A continuación, se describen los procedimientos para cada tipo de ataque.
