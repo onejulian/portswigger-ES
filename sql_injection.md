@@ -1,7 +1,5 @@
 ## SQL Injection
 
-Este repositorio contiene ejemplos prácticos de vulnerabilidades de inyección SQL y cómo explotarlas. A continuación, se describen los procedimientos para cada tipo de ataque.
-
 ---
 
 ### 1. SQL Injection en la cláusula WHERE para recuperar datos ocultos
