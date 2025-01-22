@@ -1,5 +1,3 @@
-
-```markdown
 # Prácticas de Web Hacking
 
 ## SQL Injection
